@@ -1,4 +1,4 @@
-# Fashion Sales Dashboard
+# Fashion Sales Analysis & Dashboard | Power BI, Python, Excel, DAX
 
 ## Project Overview
 
